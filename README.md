@@ -1,18 +1,65 @@
+<div align="center">
+
+# 👋 Hi, I'm Mohith M
+
+### Embedded Systems Engineer • Firmware Developer • IoT & Edge AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Firmware+Developer;ESP32+%7C+STM32+%7C+Arduino+%7C+Raspberry+Pi;IoT+Developer+%7C+Edge+AI;RTOS+%7C+FPGA+%7C+Computer+Vision;Open+to+Internships+%26+Embedded+Engineering+Roles" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mohithm78&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/mohithm78?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/mohithm78?style=for-the-badge&logo=github"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I am an **Electronics & Communication Engineering** student passionate about designing intelligent embedded systems that bridge hardware and software.
+
+My interests include **Embedded Systems, Firmware Development, IoT, Edge AI, Computer Vision, RTOS, FPGA Design, and Industrial Automation**. I enjoy building practical solutions for real-world problems using modern embedded technologies.
+
+---
+
+# 🎯 Career Objective
+
+Seeking internship and entry-level opportunities in:
+
+- Embedded Systems
+- Firmware Development
+- IoT & Industrial IoT
+- Edge AI & Computer Vision
+- Robotics & Automation
+- Automotive Electronics
+
+---
+
 # 🛠 Technical Stack
 
-### Programming Languages
+## Programming Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
-<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Verilog%20HDL-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Assembly-444444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embedded_C-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Verilog_HDL-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Assembly-grey?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge"/>
+
 </p>
 
 ---
 
-### Embedded Systems
+## Embedded Platforms
 
 <p>
 
@@ -22,57 +69,57 @@
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARM_Cortex--M-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FreeRTOS-009639?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FreeRTOS-green?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA-darkviolet?style=for-the-badge"/>
 
 </p>
 
 ---
 
-### IoT & Communication
+## Communication & IoT
 
 <p>
 
 <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/UART-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UART-grey?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SPI-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPI-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/I2C-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/I2C-green?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/CAN-Bus-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CAN-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/GSM-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSM-indigo?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/GPS-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GPS-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/TinyML-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TinyML-red?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-blue?style=for-the-badge"/>
 
 </p>
 
 ---
 
-### Frameworks & Tools
+## Development Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,github,linux,vscode"/>
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Keil-uVision-blue?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/STM32CubeIDE-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Keil_uVision-darkblue?style=for-the-badge"/>
 
 </p>
 
@@ -82,31 +129,52 @@
 
 | Project | Technologies | Highlights |
 |----------|-------------|------------|
-| 🛰 Smart Livestock Monitoring System | ESP32, GPS, GSM, Firebase, MQTT | Real-time livestock tracking with geofence monitoring and GSM theft alerts. 🥈 Runner-up at PARIVARTHAN State Hackathon |
-| 🤖 Edge AI Industrial Safety Robot | Raspberry Pi, ESP32, OpenCV, TinyML, MQTT | Autonomous industrial inspection robot with on-device AI inference and multi-sensor fusion |
-| 🚗 Automobile Black Box | Arduino, MPU6050, MQ-3, EEPROM | Alcohol detection, ignition lockout, crash detection and forensic event logging |
-| ⚡ Lightning Arresting System | STM32, TP4056, Solar Energy | Embedded lightning protection with energy harvesting and real-time monitoring |
-| ♻ Smart Waste Management | Python, Streamlit, Firebase, SQL | IoT waste monitoring dashboard with analytics and route optimization |
-| 🛡 FairWatch | React, Node.js, Firebase | Public safety monitoring dashboard with authentication and real-time updates |
-| 🔄 Priority Token Passing Arbiter | Verilog HDL, FPGA | Starvation-free configurable bus arbitration using finite state machines |
+| 🛰️ Smart Livestock Monitoring | ESP32 • GPS • GSM • Firebase • MQTT | Real-time livestock tracking with geofence monitoring and theft alerts |
+| 🤖 Edge AI Industrial Safety Robot | Raspberry Pi • ESP32 • OpenCV • MQTT | Autonomous industrial inspection with on-device AI inference |
+| 🚗 Automobile Black Box | Arduino • MPU6050 • MQ-3 | Alcohol detection, crash logging and vehicle safety |
+| ⚡ Lightning Arresting System | STM32 • Solar • I2C LCD | Smart lightning protection with energy harvesting |
+| ♻️ Smart Waste Management | Python • Streamlit • Firebase | IoT dashboard with analytics and route planning |
+| 🛡️ FairWatch | React • Node.js • Firebase | Public safety monitoring dashboard |
+| 🔄 Token Passing Arbiter | Verilog HDL • FPGA | Starvation-free configurable bus arbiter |
 
 ---
 
-# 🏆 Experience & Achievements
+# 💼 Experience
 
-🏭 **Industry Intern — Supekar Electronics (2026)**
+### Industry Intern — Supekar Electronics (2026)
 
 - PCB Design Internship
-- Designed Arduino Blink PCB
-- 7805 Regulated Power Supply
-- ESP32 + DHT11 PCB Design
-- KiCad PCB Layout & Schematic Design
+- Arduino Blink PCB
+- 7805 Power Supply Design
+- ESP32 + DHT11 PCB
+- KiCad PCB Design
 
 ---
 
-🥈 Runner-up — VVCE State Hackathon
+### Student Ambassador — Hack2Skill
+
+Promoting national hackathons and innovation programs while engaging engineering students.
+
+---
+
+### Technical Member
+
+Innovation Cell & Ad Astra Club
+
+- Embedded Systems
+- IoT
+- ESP32
+- STM32
+- Raspberry Pi
+- Firmware Development
+
+---
+
+# 🏆 Achievements
 
 🥈 Runner-up — PARIVARTHAN State Hackathon
+
+🥈 Runner-up — VVCE State Hackathon
 
 🏅 Finalist — CEPHUS Hackathon
 
@@ -121,22 +189,28 @@
 # 📜 Certifications
 
 - IBM SkillsBuild — AI Literacy
-- Ramaiah Skill Academy — AIoT: AI of Things
+- AIoT: AI of Things
 - NPTEL — Industry 4.0 & Industrial IoT
-- Ramaiah Skill Academy — Deploying Simulink Models to Embedded Targets
-- OneRoadmap — Python Certification
-- Deloitte Forage — Technology Job Simulation
-- Roberson Technologies — Hands-on Drone Workshop
+- Simulink for Embedded Targets
+- Python Programming
+- Deloitte Technology Job Simulation
+- Hands-on Drone Workshop
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Overview
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohithm78&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohithm78&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithm78&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohithm78&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohithm78&theme=tokyonight"/>
 
 </p>
 
@@ -152,19 +226,9 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohithm78&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="mailto:mohith.24ece@cambridge.edu.in">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -182,12 +246,21 @@
 
 ---
 
-# 🎯 Current Focus
+# 💡 Current Focus
 
 - Embedded Firmware Development
 - RTOS & Embedded Linux
 - Edge AI & TinyML
-- Computer Vision on Embedded Devices
-- FPGA & Digital Design
-- Industrial IoT Systems
-- PCB Design & Hardware Prototyping
+- Computer Vision
+- FPGA Design
+- PCB Design
+- Industrial IoT
+- Robotics & Automation
+
+---
+
+<div align="center">
+
+### ⭐ "Engineering reliable embedded systems that solve real-world problems."
+
+</div>
